@@ -54,5 +54,6 @@ int main(){
         }
     printf("avg: %.2f",average);
     
+    free(student);
     return 0;
 }
